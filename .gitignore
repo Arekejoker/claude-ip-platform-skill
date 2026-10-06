@@ -1,0 +1,9 @@
+# 运行产物
+__pycache__/
+*.pyc
+
+# 用户侧进度文件（每个用户自己的搭建进度，不入库）
+ip-platform-progress.md
+
+# 本地临时输出
+out/
